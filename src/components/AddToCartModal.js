@@ -11,7 +11,7 @@ const AddToCartModal = ({ item, category, isModalOpen, setModalOpen }) =>{
             isOpen={isModalOpen}
             onRequestClose={() => setModalOpen(false)}
             style={{
-                overlay: {  backgroundColor: "rgba(0, 0, 0, 0.4)"},
+                overlay: {  backgroundColor: "rgba(0, 0, 0, 0.4)", zIndex: 11},
             }}
         >
             <ModalHeader>
