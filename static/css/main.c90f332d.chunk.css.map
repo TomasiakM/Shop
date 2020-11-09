@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,EACE,SAAU,CACV,QAAS,CACT,qBAAsB,CACtB,UAAY,CACZ,sBACF,CAEA,KACE,wBACF","file":"main.c90f332d.chunk.css","sourcesContent":["* {\n  padding: 0;\n  margin: 0;\n  box-sizing: border-box;\n  color: white;\n  font-family: sans-serif;\n}\n\nbody {\n  background-color: #353b48;\n}"]}

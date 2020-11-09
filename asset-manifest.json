@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/shop/static/css/main.c90f332d.chunk.css",
+    "main.js": "/shop/static/js/main.335b45c9.chunk.js",
+    "main.js.map": "/shop/static/js/main.335b45c9.chunk.js.map",
+    "runtime-main.js": "/shop/static/js/runtime-main.4a8e269c.js",
+    "runtime-main.js.map": "/shop/static/js/runtime-main.4a8e269c.js.map",
+    "static/js/2.9bbb70be.chunk.js": "/shop/static/js/2.9bbb70be.chunk.js",
+    "static/js/2.9bbb70be.chunk.js.map": "/shop/static/js/2.9bbb70be.chunk.js.map",
+    "index.html": "/shop/index.html",
+    "precache-manifest.71cccc374b525629c0253ae123898834.js": "/shop/precache-manifest.71cccc374b525629c0253ae123898834.js",
+    "service-worker.js": "/shop/service-worker.js",
+    "static/css/main.c90f332d.chunk.css.map": "/shop/static/css/main.c90f332d.chunk.css.map",
+    "static/js/2.9bbb70be.chunk.js.LICENSE.txt": "/shop/static/js/2.9bbb70be.chunk.js.LICENSE.txt",
+    "static/media/3365-front.jpg": "/shop/static/media/3365-front.a860f788.jpg",
+    "static/media/b450-gaming-plus-max.png": "/shop/static/media/b450-gaming-plus-max.555504c4.png",
+    "static/media/b450-tomahawk.png": "/shop/static/media/b450-tomahawk.932e8cc6.png",
+    "static/media/b460-hd3.png": "/shop/static/media/b460-hd3.6e5154f1.png",
+    "static/media/gtx-1660.png": "/shop/static/media/gtx-1660.10143407.png",
+    "static/media/i5-10400.png": "/shop/static/media/i5-10400.6a456ae8.png",
+    "static/media/i7-10700.png": "/shop/static/media/i7-10700.be218e73.png",
+    "static/media/ram.png": "/shop/static/media/ram.6e89dd07.png",
+    "static/media/rtx-2060.png": "/shop/static/media/rtx-2060.3d14f526.png",
+    "static/media/rtx-2070.png": "/shop/static/media/rtx-2070.26898283.png",
+    "static/media/rtx-2080.png": "/shop/static/media/rtx-2080.740c3f63.png",
+    "static/media/rx-5600-xt.png": "/shop/static/media/rx-5600-xt.8bdb7538.png",
+    "static/media/rx-5700-xt.png": "/shop/static/media/rx-5700-xt.5c418852.png",
+    "static/media/rx-580.png": "/shop/static/media/rx-580.43d02b99.png",
+    "static/media/ryzen-5-3600.png": "/shop/static/media/ryzen-5-3600.b807bacf.png",
+    "static/media/ryzen-7-3700-x.png": "/shop/static/media/ryzen-7-3700-x.bd30e919.png",
+    "static/media/z490-gaming-plus.png": "/shop/static/media/z490-gaming-plus.20bd2715.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a8e269c.js",
+    "static/js/2.9bbb70be.chunk.js",
+    "static/css/main.c90f332d.chunk.css",
+    "static/js/main.335b45c9.chunk.js"
+  ]
+}
