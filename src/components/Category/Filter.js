@@ -3,7 +3,7 @@ import Select from 'react-select'
 import styled from "styled-components"
 
 const Container = styled.div`
-    width: 250px;
+    width: 200px;
 
     @media (max-width: 824px){
         align-self: center;

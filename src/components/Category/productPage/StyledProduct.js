@@ -123,7 +123,7 @@ export const Col = styled.div`
 `
 
 export const Reference = styled.div`
-    padding: 6px;
+    padding: 12px 6px;
 `
 
 export const StyledLink = styled(Link)`
