@@ -19,9 +19,14 @@ export const Container = styled.div`
         color: #44bd32;
     }
 
-    p a{
+    p a, p button{
         color: white;
         text-decoration: none;
+        background-color: transparent;
+        border: none;
+        outline: none;
+        font-size: 16px;
+        cursor: pointer;
         transition: all 0.2s ease;
 
         &:hover {

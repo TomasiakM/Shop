@@ -1,4 +1,5 @@
 import styled from "styled-components"
+import { Link } from "react-router-dom"
 
 export const Container = styled.div`
     display: flex;
@@ -119,4 +120,12 @@ export const Col = styled.div`
     &:nth-child(2n){
         align-self: end;
     }
+`
+
+export const Reference = styled.div`
+    padding: 6px;
+`
+
+export const StyledLink = styled(Link)`
+    text-decoration: none;
 `

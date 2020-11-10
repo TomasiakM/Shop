@@ -9,7 +9,7 @@ import MinusIcon from "../../svg/MinusIcon"
 import PlusIcon from "../../svg/PlusIcon"
 
 //STYLED
-import { Container, TopSection, TopLeftSection, StyledImg, TopRightSection, AmountDiv, Button, AddToCartButton, Description, Specyfication, Row, Col } from "./StyledProduct"
+import { Container, TopSection, TopLeftSection, StyledImg, TopRightSection, AmountDiv, Button, AddToCartButton, Description, Specyfication, Row, Col, Reference, StyledLink} from "./StyledProduct"
 
 //COMPONENTS
 import AddToCartModal from "../../AddToCartModal"
@@ -22,10 +22,15 @@ const Product = ( { match } ) => {
 
     const dispatch= useDispatch()
 
-    let product = useSelector((e) => e.products)
-    product = product[category].items.find((e) => e.id === productId)
+    const products = useSelector((e) => e.products)
+    const product = products[category].items.find((e) => e.id === productId)
     return (
         <Container>
+            <Reference>
+                <StyledLink to="/">CompShop</StyledLink>{" / "}
+                <StyledLink to={`/${category}`}>{products[category].category}</StyledLink>{" / "}
+                {product.name}
+            </Reference>
             <TopSection>
                 <TopLeftSection>
                 <StyledImg src={require(`../../img/${category}/${product.img}`)} alt={product.name} />

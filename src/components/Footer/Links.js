@@ -6,10 +6,10 @@ import { Container } from "./StyledComponents"
 const Links = () => {
     return (
         <Container>
-            <p><a href="#">O nas</a></p>
-            <p><a href="#">Regulamin</a></p>
-            <p><a href="#">Dostawa</a></p>
-            <p><a href="#">Zwroty i reklamacja</a></p>
+            <p><button>O nas</button></p>
+            <p><button>Regulamin</button></p>
+            <p><button>Dostawa</button></p>
+            <p><button>Zwroty i reklamacja</button></p>
         </Container>
     )
 }

@@ -111,15 +111,15 @@ const initialState = {
                 price: "1999.00",
                 img: "rx-5700-xt.png",
                 description: "Zapewnij sobie maksymalne wrażenia z gier na PC ogrywanych w rozdzielczościach 4K Ultra HD. Wyposażona w najwyższej jakości komponenty karta graficzna Radeon RX 5700 XT zapewnia oszałamiającą wydajność, które zadowoli każdego fana elektronicznej rozrywki.",
-            specification: [
-                {name: "Układ graficzny", value: "Radeon RX 580"},
-                {name: "Rodzaj złącza", value: "PCI-E x16 4.0"},
-                {name: "Pamięć", value: "8 GB"},
-                {name: "Procesory Strumieniowe", value: "2560"},
-                {name: "Złącze zasilania", value: "1x 8-pin + 1x 6-pin"},
-                {name: "Rekomendowana moc zasilacza", value: "600W"},
-                {name: "Obsługa Ray tracingu", value: "Nie"},
-                {name: "Rodzaje wyjść", value: "HDMI - 1 szt, DisplayPort - 3 szt"},
+                specification: [
+                    {name: "Układ graficzny", value: "Radeon RX 580"},
+                    {name: "Rodzaj złącza", value: "PCI-E x16 4.0"},
+                    {name: "Pamięć", value: "8 GB"},
+                    {name: "Procesory Strumieniowe", value: "2560"},
+                    {name: "Złącze zasilania", value: "1x 8-pin + 1x 6-pin"},
+                    {name: "Rekomendowana moc zasilacza", value: "600W"},
+                    {name: "Obsługa Ray tracingu", value: "Nie"},
+                    {name: "Rodzaje wyjść", value: "HDMI - 1 szt, DisplayPort - 3 szt"},
             ]
         },
 
